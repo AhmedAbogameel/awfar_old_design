@@ -5,7 +5,7 @@ import 'widgets/toast.dart';
 
 const DefaultErrorMessage = 'حدث خطأ اثناء تنفيذ طلبكم!';
 
-const String MAP_API_KEY = 'AIzaSyCRPU7k70M3o1JLJAbXiiJ6KscWWZhjbkI';
+const String MAP_API_KEY = '';
 
 String getAsset(String imageName) => 'assets/images/$imageName.png';
 
